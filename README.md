@@ -1,4 +1,4 @@
-### Hi there 👋
+### 개발자 김민석 👋
 
 <!--
 **minseokKim0501/minseokKim0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
